@@ -1,0 +1,21 @@
+
+body{
+    background-color: bisque;
+
+}
+
+
+div.container {
+    background-color: burlywood;
+    border-style: outset;
+    box-shadow: 5px 10px;
+    width: 70%;
+    margin: 0 auto;
+
+}
+
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
